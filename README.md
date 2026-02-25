@@ -5,7 +5,7 @@ This project recreates classic Tetris gameplay
 
 ---
 
-## 🎮 Features
+## Features
 
 - **Dynamic Board & Gameplay**
   - Clear and interactive board for placing tetrominos
@@ -36,7 +36,7 @@ This project recreates classic Tetris gameplay
 
 ---
 
-## 🚫 Current Limitations
+## Current Limitations
 
 - No **T-spin mechanics**
 - No **game over screen** (game restarts immediately when lost)
@@ -45,7 +45,7 @@ This project recreates classic Tetris gameplay
 
 ---
 
-## 🖥️ Getting Started
+## Set Up
 
 Prerequisites:
 - Java Development Kit (JDK 8+)
@@ -63,7 +63,7 @@ To run the game:
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Implement proper menu with multiple game modes
 - Add level progression and increasing speed
@@ -73,12 +73,12 @@ To run the game:
 
 ---
 
-## 📜 License
+## License
 
 This project is open-source and free to use, modify, and share.
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 Inspired by the original Tetris and its many adaptations.
